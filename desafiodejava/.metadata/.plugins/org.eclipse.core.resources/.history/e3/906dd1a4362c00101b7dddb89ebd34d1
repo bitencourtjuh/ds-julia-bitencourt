@@ -1,0 +1,46 @@
+package application;
+
+import java.util.Scanner; // Usamos isso para ler o que o usuário digita
+
+public class Program {
+    public static void main(String[] args) {
+        Scanner teclado = new Scanner(System.in); // Cria um leitor para receber os dados
+
+        // Pede a quantidade de genes
+        System.out.println("Digite quantos genes serão analisados:");
+        int N = teclado.nextInt(); // Lê o número digitado
+        teclado.nextLine(); // Limpa a quebra de linha do teclado
+
+        // Cria uma lista para guardar os genes
+        String[] genes = new String[N];
+
+        // Pede os genes um por um
+        System.out.println("Digite os genes (um por linha):");
+        for (int i = 0; i < N; i++) {
+            genes[i] = teclado.nextLine(); // Guarda cada gene na lista
+        }
+
+        // Pede o gene que será analisado
+        System.out.println("Digite o gene que será analisado:");
+        String geneAlvo = teclado.nextLine();
+
+        // Conta quantas vezes esse gene aparece
+        int contador = 0;
+        for (int i = 0; i < N; i++) {
+            if (genes[i].equals(geneAlvo)) {
+                contador = contador + 1;
+            }
+        }
+
+        // Mostra o resultado
+        if (contador > 1) {
+            System.out.println("Achei o danado");
+        } else if (contador == 1) {
+            System.out.println("Ainda não é o suficiente");
+        } else {
+            System.out.println("Sumiuu!");
+        }
+
+        teclado.close(); // Encerra o leitor de dados
+    }
+}

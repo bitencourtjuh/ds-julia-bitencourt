@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\AI2U\JDK" version="1.7.0_79">
+        <bootpath>
+            <entry path="C:\AI2U\JDK\jre\lib\resources.jar"/>
+            <entry path="C:\AI2U\JDK\jre\lib\rt.jar"/>
+            <entry path="C:\AI2U\JDK\jre\lib\sunrsasign.jar"/>
+            <entry path="C:\AI2U\JDK\jre\lib\jsse.jar"/>
+            <entry path="C:\AI2U\JDK\jre\lib\jce.jar"/>
+            <entry path="C:\AI2U\JDK\jre\lib\charsets.jar"/>
+            <entry path="C:\AI2U\JDK\jre\lib\jfr.jar"/>
+            <entry path="C:\AI2U\JDK\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\AI2U\JDK\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\AI2U\JDK\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Users\Lab 06-Micro 10\Desktop\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529" version="21.0.6">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Users\Lab 06-Micro 10\Desktop\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529\jre" version="21.0.6"/>
+    <libraryInfo home="C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot" version="17.0.6"/>
+</libraryInfos>
