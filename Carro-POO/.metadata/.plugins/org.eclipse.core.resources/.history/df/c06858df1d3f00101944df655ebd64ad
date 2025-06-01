@@ -1,0 +1,10 @@
+package aplplication;
+
+public class Carro {
+ private boolean ligado;
+ private int velocidade;
+}
+
+
+
+
