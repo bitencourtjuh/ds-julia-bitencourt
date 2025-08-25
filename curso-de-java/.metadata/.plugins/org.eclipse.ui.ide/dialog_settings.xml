@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.buildship:3.1.10.v20240802-1314"/>
+		<item value="org.eclipse.egit.gitflow.feature:7.3.0.202506031305-r"/>
+		<item value="org.eclipse.egit:7.3.0.202506031305-r"/>
+		<item value="org.eclipse.emf.common:2.35.0.v20250401-0947"/>
+		<item value="org.eclipse.emf.ecore:2.40.0.v20250414-1351"/>
+		<item value="org.eclipse.epp.mpc:1.12.1.v20250508-2126"/>
+		<item value="org.eclipse.help:2.3.2200.v20250528-1830"/>
+		<item value="org.eclipse.jdt:3.20.200.v20250528-1830"/>
+		<item value="org.eclipse.jgit.gpg.bc:7.3.0.202506031305-r"/>
+		<item value="org.eclipse.jgit.http.apache:7.3.0.202506031305-r"/>
+		<item value="org.eclipse.jgit.lfs:7.3.0.202506031305-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:7.3.0.202506031305-r"/>
+		<item value="org.eclipse.jgit:7.3.0.202506031305-r"/>
+		<item value="org.eclipse.jst.common.fproj.enablement.jdt:3.37.0.v202501090237"/>
+		<item value="org.eclipse.justj.openjdk.hotspot.jre.full:21.0.7.v20250502-0916"/>
+		<item value="org.eclipse.m2e.feature:2.9.0.20250514-0352"/>
+		<item value="org.eclipse.m2e.logback.feature:2.7.100.20250418-1315"/>
+		<item value="org.eclipse.m2e.wtp.feature:1.6.1.20231024-1618"/>
+		<item value="org.eclipse.mylyn.wikitext.feature:4.7.0.v20250513-1805"/>
+		<item value="org.eclipse.pde:3.16.300.v20250528-1830"/>
+		<item value="org.eclipse.platform:4.36.0.v20250528-2229"/>
+		<item value="org.eclipse.rcp:4.36.0.v20250528-1830"/>
+		<item value="org.eclipse.tm.terminal.connector.ssh.feature:12.1.0.202506041901"/>
+		<item value="org.eclipse.tm.terminal.control.feature:12.1.0.202505141520"/>
+		<item value="org.eclipse.tm.terminal.feature:12.1.0.202505062016"/>
+		<item value="org.eclipse.tm.terminal.view.feature:12.1.0.202506041901"/>
+		<item value="org.eclipse.wst.common.fproj:3.7.4.v202501090237"/>
+		<item value="org.jboss.tools.m2e.wro4j.feature:1.2.1.202301111328"/>
+		<item value="org.sonatype.m2e.egit.feature:0.17.0.202209271423"/>
+	</list>
+</section>
